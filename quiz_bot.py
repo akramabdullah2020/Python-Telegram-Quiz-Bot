@@ -165,6 +165,6 @@ class QuizBot:
 
 
 if __name__ == '__main__':
-    token ="7841662386:AAFHRpswFZnoSLwsKLC6v_HDUymVHmHIA-Y"
+    token ="Your Token"
     quiz_bot = QuizBot(token)
     quiz_bot.main()
